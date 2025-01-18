@@ -45,3 +45,17 @@ index b943788d..b4d7a40d 100644
    <url type="homepage">https://juzzlin.github.io/DustRacing2D/</url>
    <update_contact>jussi.lind@iki.fi</update_contact>
  </component>
+
+diff --git a/src/dustrac.appdata.xml b/src/dustrac.appdata.xml
+index b4d7a40..77455c1 100644
+--- a/src/dustrac.appdata.xml
++++ b/src/dustrac.appdata.xml
+@@ -68,6 +68,8 @@
+     <release version="2.1.1" date="2021-02-21" />
+   </releases>
+   <content_rating type="oars-1.1" />
++  <developer_name>Jussi Lind</developer_name>
++  <launchable type="desktop-id">dustrac-game.desktop</launchable>
+   <url type="homepage">https://juzzlin.github.io/DustRacing2D/</url>
+   <update_contact>jussi.lind@iki.fi</update_contact>
+ </component>
