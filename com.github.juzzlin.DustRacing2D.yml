@@ -9,8 +9,7 @@ rename-appdata-file: dustrac.appdata.xml
 finish-args:
   - --device=dri
   - --share=ipc
-  - --socket=wayland
-  - --socket=fallback-x11
+  - --socket=x11
   - --socket=pulseaudio
 
 modules:
